@@ -1,62 +1,97 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<br clear="both">
 
-<p align="center">
-  <b>Fullstack Web Developer</b> — membangun aplikasi web end-to-end dengan <b>PHP & MySQL</b>.
-  <br />
-  Terbiasa mengerjakan analisis & desain sistem (DFD, ERD, UML) untuk hasil yang rapi, efisien, dan siap pakai.
-</p>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hey%20Everyone,%20Welcome&fontSize=50&fontColor=EDF8F6&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&textBg=false&color=gradient"  />
+</div>
 
-<!--
-  Animasi "pacman" dari kontribusi GitHub (seperti di contoh) dibuat otomatis
-  lewat GitHub Action, bukan ditulis manual. Setup-nya ada di bagian bawah file ini.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
-</p>
+###
 
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/users/USERNAME_KAMU"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linktr.ee/USERNAME_KAMU"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-</p>
+<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDI3YzdkMXh6OGZqcHMzcG93eDJ4NWduOWp1NmZlMm02NXQyM3EyZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zqihZZ5Qny4q4/giphy.gif"  />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
+###
 
----
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linktree logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gitlab logo"  />
+</div>
 
-### 🧩 Fokus Keahlian
+###
 
-- **Fullstack Web Development** — PHP, MySQL, HTML/CSS/JS
-- **Analisis & Desain Sistem** — DFD, ERD, UML
-- **Basis Data** — Normalisasi & perancangan skema
-- **Dokumentasi Teknis** — Manual pengguna & spesifikasi sistem
+<br clear="both">
 
-### 📌 Proyek Unggulan
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=footer&reversal=true&text=Fullstack%20Web%20Developer&fontSize=25&fontColor=EDF8F6&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&textBg=false&color=gradient"  />
+</div>
 
-| Proyek | Deskripsi | Tech Stack |
-|---|---|---|
-| [Nama Proyek 1](https://github.com/USERNAME_KAMU/repo1) | Deskripsi singkat proyek | PHP, MySQL, Bootstrap |
-| [Nama Proyek 2](https://github.com/USERNAME_KAMU/repo2) | Deskripsi singkat proyek | PHP, MySQL |
+###
 
-### 📊 GitHub Stats
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaufalRafiM/NaufalRafiM/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaufalRafiM/NaufalRafiM/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaufalRafiM/NaufalRafiM/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=dark&hide_border=true" />
-</p>
+###
 
----
+<br clear="both">
 
-<p align="center">Hello World!!</p>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="38" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="php logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="38" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" alt="laravel logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="38" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="38" alt="codeigniter logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="38" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="38" alt="nginx logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="38" alt="npm logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="38" alt="oracle logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="vuejs logo"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/NaufalRafiM/NaufalRafiM/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:NaufalRafiM?theme=sketch-1&padding=4&scale=1&align=bottom&pixelated=1&darkmode=auto"  />
+</div>
+
+###
