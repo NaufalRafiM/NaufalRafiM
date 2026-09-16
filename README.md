@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
-  Mahasiswa <b>Sistem Informasi</b> semester 5 yang berfokus pada pengembangan aplikasi web <b>Fullstack</b>.
+  <b>Fullstack Web Developer</b> — membangun aplikasi web end-to-end dengan <b>PHP & MySQL</b>.
   <br />
-  Berpengalaman membangun aplikasi web end-to-end dengan <b>PHP & MySQL</b> — front-end, back-end, dan manajemen basis data.
-  <br />
-  Terbiasa melakukan analisis & desain sistem serta menyusun dokumentasi teknis: <b>DFD, ERD, UML, normalisasi basis data</b>, dan manual pengguna.
+  Terbiasa mengerjakan analisis & desain sistem (DFD, ERD, UML) untuk hasil yang rapi, efisien, dan siap pakai.
 </p>
 
 <!--
